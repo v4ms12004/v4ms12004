@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/v4ms12004)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:NeerajVamsiDoddapaneni@gmail.com)
-![OPT](https://img.shields.io/badge/F--1%20OPT%20Available-May%202026-2ea44f?style=for-the-badge)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/vamsi-d-2004)
 
 </div>
 
